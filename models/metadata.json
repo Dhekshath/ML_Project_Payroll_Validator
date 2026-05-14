@@ -1,0 +1,38 @@
+{
+  "contamination": 0.08,
+  "n_records": 1220,
+  "n_anomalies": 99,
+  "anomaly_pct": 8.11,
+  "feature_names": [
+    "basic_salary",
+    "hra",
+    "other_allowances",
+    "overtime_hours",
+    "bonuses",
+    "tax_deductions",
+    "other_deductions",
+    "net_salary",
+    "years_of_service",
+    "performance_score",
+    "net_to_gross_ratio",
+    "tax_rate",
+    "bonus_rate",
+    "high_overtime_flag"
+  ],
+  "feature_importances": [
+    0.5698514103891448,
+    0.5618818062460418,
+    0.4687490568864675,
+    0.9896011849709603,
+    1.0,
+    0.4742889493880949,
+    0.4338932354849582,
+    0.8282763941363438,
+    0.0015013962484344027,
+    0.008336834005346518,
+    0.5882421964811178,
+    0.06059980986640429,
+    0.9385996483200243,
+    0.02409136529149258
+  ]
+}
